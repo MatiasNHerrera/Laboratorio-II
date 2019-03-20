@@ -4,50 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ejercicio_01
+namespace Clase_02
 {
-    class ejercicio_01
+   public class Program
     {
         static void Main(string[] args)
         {
-            Console.Title= "ejercicio_01";
+            Sello.Color = ConsoleColor.Red; //cambio color
 
-            int Numeros;
-            int i;
-            int Maximo=0;
-            int Minimo = 0;
-            float Prom = 0;
+            Sello.ImprimirEnColor(); //cambio color en consola y muestro con formato ya cambiado
 
-            for (i = 0; i < 5; i++)
-            {
+            Console.WriteLine(Sello.Imprimir());// muestro el mensaje con formato ya armado
 
-                Console.WriteLine("Ingrese numeros: ");
-
-                Numeros = int.Parse(Console.ReadLine());
-
-                if (i == 0)
-                {
-                    Maximo = Numeros;
-                    Minimo = Numeros;
-                }
-               
-                if(Numeros >= Maximo)
-                {
-                    Maximo = Numeros;
-                }
-                else if(Numeros <= Minimo)
-                {
-                    Minimo = Numeros;
-                }
-
-                Prom = Prom + Numeros;
-            }
-
-            Console.WriteLine("maximo:{0} ",Maximo);
-            Console.WriteLine("minimo:{0} ",Minimo);
-            Console.WriteLine("Promedio:{0} ",Prom /5);
             Console.ReadKey();
-
+            
         }
     }
 }
