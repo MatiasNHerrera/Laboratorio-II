@@ -3,20 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Boligrafo;
 
-namespace Clase_02
+namespace clase_03
 {
-   public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Sello.Color = ConsoleColor.Red; //cambio color
-
-            Sello.ImprimirEnColor(); //cambio color en consola y muestro con formato ya cambiado
-
-            Console.WriteLine(Sello.Imprimir());// muestro el mensaje con formato ya armado
-
-            Console.ReadKey();
+            boligrafo boligrafoAzul = new boligrafo(100, ConsoleColor.Blue);
+            boligrafo boligrafoRojo = new boligrafo(50, ConsoleColor.Red);
+            
             
         }
     }
