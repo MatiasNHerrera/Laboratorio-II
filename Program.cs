@@ -1,22 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using clase_04Libreria;
 
-namespace Clase4.WindowForms
+namespace clase_04
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Cosa obj1 = new Cosa();
+            Cosa obj2 = new Cosa(7);
+            Cosa obj3 = new Cosa(7, DateTime.Today);
+            Cosa obj4 = new Cosa(7, DateTime.Today, "Hola mundo");
+
+             /*obj.establecerValor(10);
+             obj.establecerValor("hola mundo");
+             obj.establecerValor(DateTime.Now);
+
+             Console.WriteLine(obj.Mostrar()); */
+
+            Console.WriteLine(obj1.Mostrar());
+            Console.WriteLine(obj2.Mostrar());
+            Console.WriteLine(obj3.Mostrar());
+            Console.WriteLine(obj4.Mostrar());
+
+
+
+
+            Console.ReadKey();
+            
         }
     }
 }
