@@ -11,6 +11,14 @@ namespace clase_05.Entidades
         private Tempera[] _temperas;
         private int _cantidadMax;
 
+        private Tempera[] MisTemperas;
+
+        public Tempera[] _MisTemperas
+        {
+            get { return _temperas; }
+        }
+
+
         private Paleta(int cantidadMaxima)
         {
             this._cantidadMax = cantidadMaxima;
@@ -49,7 +57,55 @@ namespace clase_05.Entidades
             return mostrarExplicito.Mostrar();
         }
 
-        
+        public static bool operator == (Paleta pal, Tempera tem)
+        {
+            bool retorno = false;
+
+            foreach (Tempera t in pal._temperas)
+            {
+                if (t == tem)
+                {
+                    retorno = true;
+                }
+
+            }
+
+            return retorno;
+
+        }
+
+        public static bool operator !=(Paleta pal, Tempera tem)
+        {
+            return !(pal == tem);
+        }
+
+        public static Paleta operator + (Paleta pal, Tempera tem)
+        {
+            if (!(pal == tem))
+            {
+                pal._temperas[pal.ObtenerIndice()] = tem;
+            }
+
+            return pal;
+        }
+
+        private int ObtenerIndice()
+        {
+            int indice = -1;
+            int i = -1;
+
+            foreach (Tempera t in _temperas)
+            {
+                    i++;
+                    if(object.Equals(t,null))
+                    {
+                    indice = i;
+                    }
+            }
+
+            return indice;
+        }
+
 
 
     }

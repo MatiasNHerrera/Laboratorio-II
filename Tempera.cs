@@ -39,7 +39,22 @@ namespace clase_05.Entidades
 
         public static bool operator  == (Tempera marca, Tempera color)
         {
-           return marca == color;
+            bool retorno = false;
+
+            if(Equals(marca, null) && Equals(color,null))
+            {
+                retorno = true;
+            }
+            else if(Equals(marca, null) || Equals(color, null))
+            {
+                retorno = false;
+            }
+            else
+            {
+                retorno = true;
+            }
+
+            return retorno;
         }
 
         public static bool operator != (Tempera marca, Tempera color)
