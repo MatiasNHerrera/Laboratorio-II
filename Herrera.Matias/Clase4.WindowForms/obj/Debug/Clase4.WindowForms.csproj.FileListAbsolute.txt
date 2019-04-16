@@ -1,0 +1,13 @@
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\bin\Debug\Clase4.WindowForms.exe.config
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\bin\Debug\Clase4.WindowForms.exe
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\bin\Debug\Clase4.WindowForms.pdb
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\bin\Debug\clase_04Libreria.dll
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\bin\Debug\clase_04Libreria.pdb
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.csprojAssemblyReference.cache
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.Form1.resources
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.Properties.Resources.resources
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.csproj.GenerateResource.cache
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.csproj.CopyComplete
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.exe
+D:\VisualStudio\Herrera.Matias\Clase4.WindowForms\obj\Debug\Clase4.WindowForms.pdb
