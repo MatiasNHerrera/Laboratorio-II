@@ -50,11 +50,14 @@ namespace ftmPaleta
 
             if (tem.DialogResult == DialogResult.OK)
             {
-                NuevaInstanciaPaleta -= NuevaInstanciaPaleta._MisTemperas[index];
+                NuevaInstanciaPaleta -= NuevaInstanciaPaleta._MisTemperas[index];   
             }
 
         }
 
-        
+        private void ftmPaleta_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

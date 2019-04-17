@@ -71,6 +71,7 @@
             this.Controls.Add(this.LstLista);
             this.Name = "ftmPaleta";
             this.Text = "+";
+            this.Load += new System.EventHandler(this.ftmPaleta_Load);
             this.ResumeLayout(false);
 
         }

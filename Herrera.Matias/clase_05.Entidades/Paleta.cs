@@ -96,7 +96,7 @@ namespace clase_05.Entidades
             foreach (Tempera t in auxUno._MisTemperas)
             {
                 i++;
-                if (auxUno == auxDos)
+                if (t == auxDos)
                 {        
                     auxUno._MisTemperas[i] = null;
                     break;

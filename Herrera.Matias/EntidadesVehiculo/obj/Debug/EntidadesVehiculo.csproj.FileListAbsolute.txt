@@ -1,0 +1,6 @@
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\bin\Debug\EntidadesVehiculo.dll
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\bin\Debug\EntidadesVehiculo.pdb
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.csprojAssemblyReference.cache
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.dll
+D:\VisualStudio\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.pdb

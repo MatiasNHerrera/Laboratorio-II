@@ -1,0 +1,10 @@
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.exe.config
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.exe
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.pdb
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\bin\Debug\EntidadesVehiculo.dll
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\bin\Debug\EntidadesVehiculo.pdb
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csprojAssemblyReference.cache
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csproj.CopyComplete
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.exe
+D:\VisualStudio\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.pdb
