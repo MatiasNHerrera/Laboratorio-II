@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace EntidadesVehiculo
 {
-    public class vehiculoPadre
+    //mi clase abstracta nunca va a poder generar instancia de ellas, es decir objetos
+    //Puede contener metodos y propiedades abstractas: pero de estos solo puedo poseer la firma, no la implementacion
+
+    public abstract class vehiculoPadre 
     {
         protected string _patente;
         protected EMarca _marca;
@@ -19,10 +22,10 @@ namespace EntidadesVehiculo
             this._cantidadRuedas = c;
         }
 
-        protected string mostrarVehiculo()
+        /*protected string mostrarVehiculo()
         {
             return this._patente + " - " + this._marca + " - " + this._cantidadRuedas.ToString();
-        }
+        }*/
 
         private string _miPatente;
 
@@ -54,5 +57,24 @@ namespace EntidadesVehiculo
         {
             return !(auxUno == auxDos);
         }
-    }
+
+
+        public override string ToString()
+        {
+          return this._patente + " - " + this._marca + " - " + this._cantidadRuedas.ToString();
+        }
+
+        private double _precio;
+
+        public abstract double MiPrecio
+        {
+          get;
+          set;
+        }
+
+        public abstract double CalcularPrecioConIva();
+        
+    
+
+  }
 }

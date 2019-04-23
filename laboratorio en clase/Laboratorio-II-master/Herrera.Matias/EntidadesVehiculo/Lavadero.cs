@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -46,18 +46,7 @@ namespace EntidadesVehiculo
 
                 foreach(vehiculoPadre ve in this._vehiculos) //colocar tipo de dato dentro la lista generica, no la lista generica en si
                 {
-                    if (ve is Auto)
-                    {
-                        retorno += ((Auto)ve).mostrarAuto();
-                    }
-                    else if (ve is Moto)
-                    {
-                        retorno += ((Moto)ve).mostrarMoto();
-                    }
-                    else
-                    {
-                        retorno +=((Camion)ve).mostrarCamion();
-                    }
+                    retorno += ve.ToString();     
                 }
 
                 return retorno;
@@ -70,16 +59,14 @@ namespace EntidadesVehiculo
 
             foreach (vehiculoPadre ve in l._vehiculos)
             {
-                if (ve is Auto)
-                {
-                    if(ve.MiPatente == v.MiPatente && ve.MiMarca == v.MiMarca)
-                    {
-                        retorno = true;
-                        break;
-                    }
-                }
+                 if(ve == v)
+                 {
+                      retorno = true;
+                      break;
+                 }
+                
 
-                else if(ve is Moto)
+                /*else if(ve is Moto)
                 {
                     if(ve.MiPatente == v.MiPatente && ve.MiMarca == v.MiMarca)
                     {
@@ -94,7 +81,7 @@ namespace EntidadesVehiculo
                         retorno = true;
                         break;
                     }
-                }
+                }*/
     
             }
 
@@ -172,15 +159,15 @@ namespace EntidadesVehiculo
                
                 if(ve is Auto)
                 {
-                    totalFacturado += 200;
+                    totalFacturado += this._precioAuto;
                 }
                 else if(ve is Moto)
                 {
-                    totalFacturado += 120;
+                    totalFacturado += this._precioMoto;
                 }
                 else
                 {
-                    totalFacturado += 500;
+                    totalFacturado += this._precioCamion;
                 }
             }
 
@@ -190,31 +177,27 @@ namespace EntidadesVehiculo
 
         public double MostrarTotalFacturado(EVehiculo vehiculos)
         {
-            double facturaPorAuto = 0;
-            double facturaPorMoto = 0;
-            double facturaPorCamion = 0;
-            double facturaRetorno = 0;
+            double factura= 0;
 
             foreach(vehiculoPadre ve in _vehiculos)
             {
                 if(ve is Auto && vehiculos == EVehiculo.Auto)
                 {
-                    facturaPorAuto += 200;
-                    facturaRetorno = facturaPorAuto;
+                    factura += this._precioAuto;
                 }
                 else if(ve is Moto && vehiculos == EVehiculo.Moto)
                 {
-                    facturaPorMoto += 120;
-                    facturaRetorno = facturaPorMoto;
+                    factura += this._precioMoto;
+                    
                 }
                 else if (ve is Camion && vehiculos == EVehiculo.Camion)
                 {
-                    facturaPorCamion += 500;
-                    facturaRetorno = facturaPorCamion;
+                    factura += this._precioCamion;
+                 
                 }
             }
 
-            return facturaRetorno;
+            return factura;
 
         }
 

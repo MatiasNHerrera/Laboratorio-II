@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\Herrera.Matias\\clase_04\\clase_04.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\Herrera.Matias\\clase_04\\clase_04.csproj",
       "projectName": "clase_04",
-      "projectPath": "D:\\VisualStudio\\Herrera.Matias\\clase_04\\clase_04.csproj",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\Herrera.Matias\\clase_04\\clase_04.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\Herrera.Matias\\clase_04\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\Herrera.Matias\\clase_04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -710,8 +710,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\VisualStudio\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj": {
-              "projectPath": "D:\\VisualStudio\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj"
+            "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj": {
+              "projectPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj"
             }
           }
         }

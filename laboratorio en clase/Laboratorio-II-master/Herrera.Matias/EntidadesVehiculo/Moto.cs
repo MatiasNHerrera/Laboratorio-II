@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,9 +14,25 @@ namespace EntidadesVehiculo
         {
             this._cilindrada = cilin;
         }
-        public string mostrarMoto()
-        {
-            return "Moto: " + base.mostrarVehiculo() + " - " + this._cilindrada.ToString() + "\n";
-        }
-    }
+    /*public string mostrarMoto()
+    {
+        return "Moto: " + base.mostrarVehiculo() + " - " + this._cilindrada.ToString() + "\n";
+    }*/
+
+       public override string ToString()
+       {
+          return "Moto: " + base.ToString() + " - " + this._cilindrada + "\n";
+       }
+
+       public override double MiPrecio
+       {
+         get;
+         set;
+       }
+
+       public override double CalcularPrecioConIva()
+       {
+         return this.MiPrecio * 1.21;
+       }
+  }
 }

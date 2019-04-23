@@ -10,3 +10,9 @@ C:\Users\MatiasH\Desktop\laboratorio en clase\Laboratorio-II-master\Herrera.Mati
 C:\Users\MatiasH\Desktop\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.csproj.CoreCompileInputs.cache
 C:\Users\MatiasH\Desktop\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.dll
 C:\Users\MatiasH\Desktop\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.pdb
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\bin\Debug\EntidadesVehiculo.dll
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\bin\Debug\EntidadesVehiculo.pdb
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.dll
+C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\EntidadesVehiculo\obj\Debug\EntidadesVehiculo.pdb

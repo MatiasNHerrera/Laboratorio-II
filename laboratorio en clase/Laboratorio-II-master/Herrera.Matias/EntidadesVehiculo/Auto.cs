@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,9 +14,26 @@ namespace EntidadesVehiculo
         {
             this._cantidadAsientos = cantidadA;
         }
-        public string mostrarAuto()
-        {
-            return "Auto: " + base.mostrarVehiculo() + " - " + this._cantidadAsientos.ToString()+ "\n";
-        }
+
+    /*public string mostrarAuto()
+    {
+        return "Auto: " + base.mostrarVehiculo() + " - " + this._cantidadAsientos.ToString()+ "\n";
+    }*/
+
+    public override string ToString()
+    {
+      return "Auto: " + base.ToString() + " - " + this._cantidadAsientos.ToString() + "\n";
     }
+
+    public override double MiPrecio
+    {
+      get;
+      set;  
+    }
+
+    public override double CalcularPrecioConIva()
+    {
+        return this.MiPrecio * 1.21;
+    }
+  }
 }
