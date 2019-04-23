@@ -1,0 +1,6 @@
+D:\VisualStudio\Herrera.Matias\Librerias\bin\Debug\Librerias.dll
+D:\VisualStudio\Herrera.Matias\Librerias\bin\Debug\Librerias.pdb
+D:\VisualStudio\Herrera.Matias\Librerias\obj\Debug\Librerias.csprojAssemblyReference.cache
+D:\VisualStudio\Herrera.Matias\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Herrera.Matias\Librerias\obj\Debug\Librerias.dll
+D:\VisualStudio\Herrera.Matias\Librerias\obj\Debug\Librerias.pdb

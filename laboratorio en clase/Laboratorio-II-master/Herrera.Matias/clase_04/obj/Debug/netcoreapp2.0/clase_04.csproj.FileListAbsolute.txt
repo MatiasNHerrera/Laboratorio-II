@@ -1,0 +1,14 @@
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04.deps.json
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04.runtimeconfig.json
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04.runtimeconfig.dev.json
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04.dll
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04.pdb
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04Libreria.dll
+D:\VisualStudio\Herrera.Matias\clase_04\bin\Debug\netcoreapp2.0\clase_04Libreria.pdb
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.csprojAssemblyReference.cache
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.AssemblyInfoInputs.cache
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.AssemblyInfo.cs
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.csproj.CopyComplete
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.dll
+D:\VisualStudio\Herrera.Matias\clase_04\obj\Debug\netcoreapp2.0\clase_04.pdb
