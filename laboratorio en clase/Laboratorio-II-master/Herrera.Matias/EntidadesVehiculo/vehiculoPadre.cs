@@ -73,8 +73,6 @@ namespace EntidadesVehiculo
         }
 
         public abstract double CalcularPrecioConIva();
-        
-    
 
   }
 }
