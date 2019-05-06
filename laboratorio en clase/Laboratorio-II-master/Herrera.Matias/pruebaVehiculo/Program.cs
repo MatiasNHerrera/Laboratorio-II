@@ -33,6 +33,9 @@ namespace pruebaVehiculo
             Console.WriteLine("el total factura por camion es: " + elLavadero.MostrarTotalFacturado(EVehiculo.Camion));
             Console.WriteLine("El precio del auto mas el iva es: " + nuevoAuto.CalcularPrecioConIva());
 
+            elLavadero.MisVehiculos.Sort(Lavadero.OrdenarVehiculosPorPatente); // metodo de ordenamiento
+            Console.WriteLine(elLavadero.MiLavadero);
+
             Console.ReadKey();
 
         }

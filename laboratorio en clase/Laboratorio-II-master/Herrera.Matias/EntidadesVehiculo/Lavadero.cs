@@ -32,24 +32,27 @@ namespace EntidadesVehiculo
         {
             get
             {
-                return (" - Precio Auto: " + this._precioAuto + "\n - Precio Camion: " + this._precioCamion + "\n - Precio Moto: " + this._precioMoto + "\n\nVehiculos disponibles en el lavadero: \n\n" + this.MisVehiculos).ToString();
-            }
-        }
-
-        private string _vehiculoProp;
-
-        public string MisVehiculos
-        {
-            get
-            {
                 string retorno = "";
 
-                foreach(vehiculoPadre ve in this._vehiculos) //colocar tipo de dato dentro la lista generica, no la lista generica en si
+                retorno += (" - Precio Auto: " + this._precioAuto + "\n - Precio Camion: " + this._precioCamion + "\n - Precio Moto: " + this._precioMoto + "\n\nVehiculos disponibles en el lavadero: \n\n");
+
+                foreach (vehiculoPadre ve in this._vehiculos) //colocar tipo de dato dentro la lista generica, no la lista generica en si
                 {
-                    retorno += ve.ToString();     
+                    retorno += ve.ToString();
                 }
 
                 return retorno;
+
+            }
+        }
+
+        private List<vehiculoPadre> _vehiculoProp;
+
+        public List<vehiculoPadre> MisVehiculos
+        {
+            get
+            {
+                return this._vehiculos;
             }
         }
 
@@ -199,7 +202,16 @@ namespace EntidadesVehiculo
 
             return factura;
 
-        }       
+        }
+
+        //Ordenamiento por patente;
+
+        public static int OrdenarVehiculosPorPatente(vehiculoPadre vehiculo1, vehiculoPadre vehiculo2)
+        {
+            return string.Compare(vehiculo1.MiPatente, vehiculo2.MiPatente); 
+        }
+
+
 
     }
 }

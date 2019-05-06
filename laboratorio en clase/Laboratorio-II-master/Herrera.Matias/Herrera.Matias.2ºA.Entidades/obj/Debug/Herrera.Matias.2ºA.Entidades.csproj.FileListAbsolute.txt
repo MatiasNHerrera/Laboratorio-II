@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-maste
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\bin\Debug\Herrera.Matias.2ºA.Entidades.pdb
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.dll
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\bin\Debug\Herrera.Matias.2ºA.Entidades.dll
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\bin\Debug\Herrera.Matias.2ºA.Entidades.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.dll
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Herrera.Matias.2ºA.Entidades\obj\Debug\Herrera.Matias.2ºA.Entidades.pdb

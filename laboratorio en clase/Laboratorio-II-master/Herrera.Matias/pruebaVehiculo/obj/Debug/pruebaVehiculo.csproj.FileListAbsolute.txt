@@ -28,3 +28,13 @@ C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-maste
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csproj.CopyComplete
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.exe
 C:\Users\alumno\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.exe.config
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.exe
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\bin\Debug\pruebaVehiculo.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\bin\Debug\EntidadesVehiculo.dll
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\bin\Debug\EntidadesVehiculo.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.csproj.CopyComplete
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.exe
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\pruebaVehiculo\obj\Debug\pruebaVehiculo.pdb
