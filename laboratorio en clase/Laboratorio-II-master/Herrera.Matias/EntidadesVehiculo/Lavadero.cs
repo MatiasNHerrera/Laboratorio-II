@@ -98,27 +98,9 @@ namespace EntidadesVehiculo
 
         public static Lavadero operator + (Lavadero l, vehiculoPadre v)
         {
-            if (v is Auto)
+            if(!(l == v))
             {
-                if (!(l == v))
-                {
-                    l._vehiculos.Add(v);
-                }
-            }
-            else if (v is Moto)
-            {
-                if (!(l == v))
-                {
-                    l._vehiculos.Add(v);
-                }
-          
-            }
-            else
-            {
-                if (!(l == v))
-                {
-                    l._vehiculos.Add(v);
-                }
+                l._vehiculos.Add(v);
             }
            
             return l;

@@ -8,3 +8,13 @@ D:\Laboratorio y programacion II\Herrera.Matias.2ºA\VistaConsola\obj\Debug\Vist
 D:\Laboratorio y programacion II\Herrera.Matias.2ºA\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
 D:\Laboratorio y programacion II\Herrera.Matias.2ºA\VistaConsola\obj\Debug\VistaConsola.exe
 D:\Laboratorio y programacion II\Herrera.Matias.2ºA\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\MatiasH\Desktop\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Practica Parcial 1\VistaConsola\obj\Debug\VistaConsola.pdb
