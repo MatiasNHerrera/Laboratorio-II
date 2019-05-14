@@ -528,11 +528,10 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
+      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -686,23 +685,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MatiasH\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatiasH\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\clase_04.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\clase_04.csproj",
       "projectName": "clase_04",
-      "projectPath": "C:\\Users\\MatiasH\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\clase_04.csproj",
-      "packagesPath": "C:\\Users\\MatiasH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatiasH\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\obj\\",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\clase_04.csproj",
+      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MatiasH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -715,8 +710,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\MatiasH\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj": {
-              "projectPath": "C:\\Users\\MatiasH\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj"
+            "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj": {
+              "projectPath": "C:\\Users\\alumno\\Desktop\\Laboratorio-II\\laboratorio en clase\\Laboratorio-II-master\\Herrera.Matias\\clase_04Libreria\\clase_04Libreria.csproj"
             }
           }
         }
