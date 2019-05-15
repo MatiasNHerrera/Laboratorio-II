@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace EntidadesClase_14
 {
   public class ErrorParserException : Exception
-  {
-
+  { 
     public ErrorParserException(string mensaje, Exception inner) : base(mensaje, inner)
     {
         
