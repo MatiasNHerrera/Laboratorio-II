@@ -1,0 +1,10 @@
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\bin\Debug\Test.exe.config
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\bin\Debug\Test.exe
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\bin\Debug\Test.pdb
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\bin\Debug\Entidades.dll
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\bin\Debug\Entidades.pdb
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\obj\Debug\Test.exe
+D:\Laboratorio y programacion II\Practica Parcial 1\Herrera.Matias.2ºA\Test\obj\Debug\Test.pdb
