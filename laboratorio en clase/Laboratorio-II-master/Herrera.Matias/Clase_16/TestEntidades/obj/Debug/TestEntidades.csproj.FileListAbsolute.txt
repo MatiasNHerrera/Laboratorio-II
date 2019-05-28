@@ -1,0 +1,10 @@
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\bin\Debug\TestEntidades.exe
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\bin\Debug\EntidadesDeposito.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\bin\Debug\EntidadesDeposito.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\obj\Debug\TestEntidades.exe
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_16\TestEntidades\obj\Debug\TestEntidades.pdb
