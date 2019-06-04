@@ -1,0 +1,6 @@
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\bin\Debug\Entidades_Clase17.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\bin\Debug\Entidades_Clase17.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\obj\Debug\Entidades_Clase17.csprojAssemblyReference.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\obj\Debug\Entidades_Clase17.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\obj\Debug\Entidades_Clase17.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\Entidades_Clase17\obj\Debug\Entidades_Clase17.pdb

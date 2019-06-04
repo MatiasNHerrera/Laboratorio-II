@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHumano xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Humano xsi:type="Persona">
+    <Dni>0</Dni>
+    <nombre>Matias</nombre>
+    <apellido>Herrera</apellido>
+  </Humano>
+  <Humano xsi:type="Alumno">
+    <Dni>42038513</Dni>
+    <nombre>Matias</nombre>
+    <apellido>Herrera</apellido>
+    <Legajo>7</Legajo>
+  </Humano>
+  <Humano xsi:type="Profesor">
+    <Dni>38543212</Dni>
+    <nombre>Jose</nombre>
+    <apellido>Perez</apellido>
+    <Titulo>El crack</Titulo>
+  </Humano>
+</ArrayOfHumano>

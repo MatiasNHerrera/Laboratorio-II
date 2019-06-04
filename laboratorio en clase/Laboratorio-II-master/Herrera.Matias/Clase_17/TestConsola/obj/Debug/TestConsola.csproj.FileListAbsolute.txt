@@ -1,0 +1,10 @@
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\bin\Debug\TestConsola.exe.config
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\bin\Debug\TestConsola.exe
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\bin\Debug\TestConsola.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\bin\Debug\Entidades_Clase17.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\bin\Debug\Entidades_Clase17.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\obj\Debug\TestConsola.exe
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_17\TestConsola\obj\Debug\TestConsola.pdb
