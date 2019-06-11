@@ -1,0 +1,20 @@
+SQL Server:
+
+-Iniciar servidor, cambiar numero de laboratorio y de maquina.
+-Instruccion tipica SELECT. La cual nos permite seleccionar distintas columnas de una base de datos.
+-SELECT TOP + LOS NOMBRES DE LOS CAMPOS DE LAS TABLAS SEPARADOS CON COMAS.
+
+-Comando where: filtra datos.
+-Comando ORDER BY + nombre de la fila + ASC/DESC.
+- Los campos con referencia PK no pueden agregarse, no se modifican.
+- SELECT + *: trae todos los campos de la tabla en el orden que fueron guardadas.
+- INSERT INTO + Tabla donde agregaremos + los campos
+- VALUES + Los valores que agregaremos.
+- UPDATE: actualiza la tabla.
+- SET:
+  campo = valor;
+- WHERE = campo que se desea modificar.
+
+SQL Server en c#:
+
+-propiedades, agrego cadena de conexion, selecciono la base de datos, testeo y guardo. 
