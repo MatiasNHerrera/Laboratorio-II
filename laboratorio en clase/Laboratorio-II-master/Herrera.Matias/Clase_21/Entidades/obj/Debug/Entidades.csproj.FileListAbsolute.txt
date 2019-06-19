@@ -1,0 +1,6 @@
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Laboratorio-II\laboratorio en clase\Laboratorio-II-master\Herrera.Matias\Clase_21\Entidades\obj\Debug\Entidades.pdb
