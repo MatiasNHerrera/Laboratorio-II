@@ -1,0 +1,6 @@
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csprojAssemblyReference.cache
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+D:\Herrera.Matias\Segundo.Parcial_2019\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb
