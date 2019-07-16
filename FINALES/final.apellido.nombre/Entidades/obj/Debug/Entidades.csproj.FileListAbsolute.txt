@@ -1,0 +1,6 @@
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\bin\Debug\Entidades.dll
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\obj\Debug\Entidades.dll
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\Entidades\obj\Debug\Entidades.pdb

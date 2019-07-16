@@ -1,0 +1,13 @@
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.Form1.resources
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.Properties.Resources.resources
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.csproj.GenerateResource.cache
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\bin\Debug\final.apellido.nombre.exe.config
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\bin\Debug\final.apellido.nombre.exe
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\bin\Debug\final.apellido.nombre.pdb
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\bin\Debug\Entidades.dll
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\bin\Debug\Entidades.pdb
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.csproj.CopyComplete
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.exe
+C:\Users\MatiasH\Desktop\FINALES\final.apellido.nombre\final.apellido.nombre\obj\Debug\final.apellido.nombre.pdb
