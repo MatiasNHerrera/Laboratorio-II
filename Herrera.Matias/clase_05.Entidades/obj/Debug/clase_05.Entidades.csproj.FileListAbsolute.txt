@@ -1,6 +1,0 @@
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\bin\Debug\clase_05.Entidades.dll
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\bin\Debug\clase_05.Entidades.pdb
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\obj\Debug\clase_05.Entidades.csprojAssemblyReference.cache
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\obj\Debug\clase_05.Entidades.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\obj\Debug\clase_05.Entidades.dll
-D:\VisualStudio\Herrera.Matias\clase_05.Entidades\obj\Debug\clase_05.Entidades.pdb

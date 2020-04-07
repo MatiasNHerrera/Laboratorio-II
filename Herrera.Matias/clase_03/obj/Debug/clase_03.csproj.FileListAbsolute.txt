@@ -1,7 +1,0 @@
-D:\VisualStudio\Herrera.Matias\clase_03\bin\Debug\clase_03.exe.config
-D:\VisualStudio\Herrera.Matias\clase_03\bin\Debug\clase_03.exe
-D:\VisualStudio\Herrera.Matias\clase_03\bin\Debug\clase_03.pdb
-D:\VisualStudio\Herrera.Matias\clase_03\obj\Debug\clase_03.csprojAssemblyReference.cache
-D:\VisualStudio\Herrera.Matias\clase_03\obj\Debug\clase_03.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Herrera.Matias\clase_03\obj\Debug\clase_03.exe
-D:\VisualStudio\Herrera.Matias\clase_03\obj\Debug\clase_03.pdb
